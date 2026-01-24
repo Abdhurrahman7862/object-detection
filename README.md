@@ -4,3 +4,4 @@ A simple project to navigate visual disabled people
 >>pip install ultralytics
 # run application
 >>python try.py
+# use master branch
